@@ -1,0 +1,24 @@
+.header {
+  background-color: #0070f3;
+  color: white;
+  padding: 20px;
+}
+
+.menu {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin-top: 10px;
+}
+
+.main {
+  padding: 40px;
+  min-height: 80vh;
+}
+
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
